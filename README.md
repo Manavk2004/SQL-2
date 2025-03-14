@@ -8,6 +8,11 @@
 5. Wilson, Landon @landonnn0
 
 
+# Team Name
+
+61608 Group 7
+
+
 # Problem Description:
 
 Retail technology businesses, such as Best Buy, face challenges in efficiently managing inventory, sales transactions, and product categorization. Without an organized database system, these businesses may encounter difficulties such as:
